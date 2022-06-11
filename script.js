@@ -31,5 +31,5 @@ function quizResults() {
 		document.getElementById("q3").innerHTML = "You got it right!";
 	} else {
 		document.getElementById("q3").innerHTML = "Sorry, the correct answer is Water";
-}
+  }
 }
